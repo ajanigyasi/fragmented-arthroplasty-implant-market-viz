@@ -45,7 +45,7 @@ After employing OLS regression analysis to test for correlation between spend av
 
 Going back to our  example scenario, if hospital #1 spent a total \$117 million for 98,584 implants and hospital #2 spent $68 million for 73,728 implants -- this will reveal that hospital #1 is more susceptible to markups with a smaller percentage difference/change between quantity and spend of implants (hospital #1: 1.22% - 1.11% = **+0.11%**; hospital #2:  0.91% - 0.65% = **+0.26%**).
 
->> ##### **Note: The percentage change between implant quantity and spend is over a 7 year period, which factors in 8,082,254 of total U.S. hospital implant volume and $10,513,927,584.14 of total U.S. hospital spend, respectively.**
+>> ##### **Note: The percentage change between implant quantity and spend is over a 7-year period, which factors in 8,082,254 of total U.S. hospital implant volume and $10,513,927,584.14 of total U.S. hospital spend, respectively.**
 
 <div style="width: 100%; overflow-x: scroll;">
 <html>
