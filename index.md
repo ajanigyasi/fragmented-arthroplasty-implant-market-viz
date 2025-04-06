@@ -34,7 +34,7 @@ For example, if hospital #1 purchased 98,584 implants and their spend average wa
 
  Here, I decided to visualize the two variables (spend average vs. quantity total) with each point representing a hospital. The size of the points corresponds to the number of implant transactions over the course of 7 years or less.
 
-After employing OLS regression analysis to test for correlation between spend average and quantity total, we found no significant relationship between these variables (R<sup>2</sup>=0.002, p=0.089).
+After employing ordinary least squares (OLS) regression analysis to test for correlation between spend average and quantity total, we found no significant relationship between these variables (R<sup>2</sup>=0.002, p=0.089).
 
 
 
