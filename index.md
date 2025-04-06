@@ -23,7 +23,7 @@ Here, I wanted to explore the behavioral economics of the arthroplasty implant m
 
 While examining the relationship between spend average and quantity total might seem like the obvious approach to visualize implant purchasing trends, this analysis can yield counterintuitive results. Moreover, the lack of correlation between these variables suggests that there's no true relationship, requiring a more simplified analytical approach for interpretable insights.
 
-For example, if hospital #1 purchased 98,584 implants and their spend average was \$2,218 and hospital #2 purchased 73,728 implants with an spend average of \$2,291, one could conclude hospital #1 is less susceptible to high markups than hospital #2 due to its lower spend average and higher quantity total over a period.
+For example, if hospital #1 purchased 98,584 implants and their spend average was \$2,218 and hospital #2 purchased 73,728 implants with an spend average of \$2,291, one could conclude hospital #1 is less susceptible to high markups than hospital #2 due to its lower spend average and higher quantity total over a period of time.
 
 
 <div style="width: 100%; overflow-x: scroll;">
